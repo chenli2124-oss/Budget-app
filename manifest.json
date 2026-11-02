@@ -1,0 +1,17 @@
+{
+  "name": "簡記｜個人預算",
+  "short_name": "簡記",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#f6f5f1",
+  "lang": "zh-TW",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
